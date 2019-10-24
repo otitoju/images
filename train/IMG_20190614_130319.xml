@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SUNDAY</folder>
+	<filename>IMG_20190614_130319.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Train\SUNDAY\IMG_20190614_130319.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>106</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Afolabi_sunday_sci15csc006</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>7</ymin>
+			<xmax>77</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

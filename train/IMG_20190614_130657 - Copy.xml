@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IDOWU</folder>
+	<filename>IMG_20190614_130657 - Copy.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Test\IDOWU\IMG_20190614_130657 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>106</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Idowu_sci15csc034</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>13</ymin>
+			<xmax>78</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

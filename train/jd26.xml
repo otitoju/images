@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JIDE</folder>
+	<filename>jd26.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Test\JIDE\jd26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>90</width>
+		<height>106</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Babatunde_Jide_sci15csc020</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>88</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

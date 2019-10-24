@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JANET</folder>
+	<filename>jt21.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Test\JANET\jt21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>92</width>
+		<height>99</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Olayemi_jane_sci15csc060</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>89</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

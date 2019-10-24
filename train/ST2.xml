@@ -1,0 +1,26 @@
+<annotation>
+	<folder>STEVEN</folder>
+	<filename>ST2.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Train\STEVEN\ST2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>92</width>
+		<height>99</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bolorunduro_steven_sci15csc023</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>90</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

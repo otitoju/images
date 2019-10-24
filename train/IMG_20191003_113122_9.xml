@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ISAIC</folder>
+	<filename>IMG_20191003_113122_9.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Test\ISAIC\IMG_20191003_113122_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>87</width>
+		<height>106</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Omokafe_sci15csc026</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>2</ymin>
+			<xmax>73</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>
