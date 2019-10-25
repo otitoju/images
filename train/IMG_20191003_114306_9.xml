@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (4)</folder>
+	<filename>IMG_20191003_114306_9.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_114306_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odofin_mercy_sci15csc049</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>8</ymin>
+			<xmax>290</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

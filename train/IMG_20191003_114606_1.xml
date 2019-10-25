@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (4)</folder>
+	<filename>IMG_20191003_114606_1.jpg</filename>
+	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_114606_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ebute_mercy_sci15csc028</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>16</ymin>
+			<xmax>262</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

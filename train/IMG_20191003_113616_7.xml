@@ -1,26 +1,26 @@
 <annotation>
-	<folder>ISAIC</folder>
+	<folder>New folder (4)</folder>
 	<filename>IMG_20191003_113616_7.jpg</filename>
-	<path>C:\Users\OTITOJU\Desktop\croped DL facer\Test\ISAIC\IMG_20191003_113616_7.jpg</path>
+	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_113616_7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>82</width>
-		<height>106</height>
-		<depth>1</depth>
+		<width>300</width>
+		<height>533</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>Omokafe_sci15csc026</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2</xmin>
-			<ymin>21</ymin>
-			<xmax>64</xmax>
-			<ymax>104</ymax>
+			<xmin>5</xmin>
+			<ymin>14</ymin>
+			<xmax>300</xmax>
+			<ymax>517</ymax>
 		</bndbox>
 	</object>
 </annotation>
