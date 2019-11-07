@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New folder (4)</folder>
+	<folder>New folder (5)</folder>
 	<filename>IMG_20191003_114051_5.jpg</filename>
-	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_114051_5.jpg</path>
+	<path>C:\Users\OTITOJU\Desktop\New folder (5)\IMG_20191003_114051_5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Babatunde_Jide_sci15csc020</name>
+		<name>Name:Babatunde_Jide_Matric:Sci15csc020</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>1</ymin>
-			<xmax>291</xmax>
-			<ymax>385</ymax>
+			<xmin>95</xmin>
+			<ymin>77</ymin>
+			<xmax>211</xmax>
+			<ymax>234</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New folder (4)</folder>
+	<folder>New folder (5)</folder>
 	<filename>IMG_20191003_114229_5.jpg</filename>
-	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_114229_5.jpg</path>
+	<path>C:\Users\OTITOJU\Desktop\New folder (5)\IMG_20191003_114229_5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>odofin_mercy_sci15csc049</name>
+		<name>Name:odofin_mercy_Matric:Sci15csc049</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>14</ymin>
-			<xmax>287</xmax>
-			<ymax>446</ymax>
+			<xmin>107</xmin>
+			<ymin>94</ymin>
+			<xmax>235</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 </annotation>

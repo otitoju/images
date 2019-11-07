@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New folder (4)</folder>
+	<folder>New folder (5)</folder>
 	<filename>IMG_20191003_114620_5.jpg</filename>
-	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_114620_5.jpg</path>
+	<path>C:\Users\OTITOJU\Desktop\New folder (5)\IMG_20191003_114620_5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Ebute_mercy_sci15csc028</name>
+		<name>Name:Ebute_mercy_Matric:Sci15csc028</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>47</ymin>
-			<xmax>276</xmax>
-			<ymax>479</ymax>
+			<xmin>52</xmin>
+			<ymin>151</ymin>
+			<xmax>200</xmax>
+			<ymax>350</ymax>
 		</bndbox>
 	</object>
 </annotation>

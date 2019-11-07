@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New folder (4)</folder>
+	<folder>New folder (5)</folder>
 	<filename>IMG_20191003_113810_8.jpg</filename>
-	<path>C:\Users\OTITOJU\Desktop\New folder (4)\IMG_20191003_113810_8.jpg</path>
+	<path>C:\Users\OTITOJU\Desktop\New folder (5)\IMG_20191003_113810_8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Bolorunduro_steven_sci15csc023</name>
+		<name>Name:Bolorunduro_steven_Matric:Sci15csc023</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>86</xmin>
-			<ymin>8</ymin>
-			<xmax>300</xmax>
-			<ymax>333</ymax>
+			<xmin>119</xmin>
+			<ymin>60</ymin>
+			<xmax>259</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 </annotation>
