@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rose</folder>
+	<filename>rose (1).jpg</filename>
+	<path>C:\Users\Leema-PC\Desktop\FLOWER\rose\rose (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rose</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>49</ymin>
+			<xmax>276</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
